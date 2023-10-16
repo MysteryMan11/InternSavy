@@ -10,7 +10,7 @@ The project is organized into the following main folders:
 
 - **Task_2:** Contains Jupyter notebooks with the Clustering Models' analyses, Clustering models and Dataset in CSV file for Task 2.
 
-- **Task_1:** Contains Jupyter notebooks with the Customer Segmentation analysis, ML models and Dataset in CSV file for Task 3.
+- **Task_3:** Contains Jupyter notebooks with the Customer Segmentation analysis, ML models and Dataset in CSV file for Task 3.
 
 
 ## Notebooks
